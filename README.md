@@ -63,7 +63,7 @@ The graphic below walks through the data pipeline/tech stack used for this proje
 The SQL database is composed of 3 tables containing data on player salaries, stats and team stats. The db linking can be found below.
 
 <p align="center" width="75%">
-    <img width="50%" src="images/sql_keys.png"> 
+    <img width="50%" src="images/sql_keys.PNG"> 
 </p>
 
 Project Sections
