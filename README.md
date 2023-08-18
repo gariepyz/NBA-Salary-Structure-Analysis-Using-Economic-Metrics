@@ -101,8 +101,8 @@ To profile the optimal team compositions this study proposes, I wanted to look a
 
 Code structure
 ==============
-Package dependencies
---------------------
+File Contents
+-------------
 
 This repo contains the following files:
 
